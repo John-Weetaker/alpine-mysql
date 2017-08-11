@@ -1,0 +1,9 @@
+version: '2'
+
+services: 
+
+  mysql-alpine-dev-update:
+    container_name: 'mysql-alpine-dev-update'
+    build: 
+      context: './'
+      dockerfile: 'Dockerfile'

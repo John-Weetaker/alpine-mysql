@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER WangXian <xian366@126.com>
+MAINTAINER John <jjdormevil97@gmail.com>
 
 WORKDIR /app
 VOLUME /app
